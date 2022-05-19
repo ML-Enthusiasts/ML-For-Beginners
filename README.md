@@ -27,12 +27,12 @@ Travel with us around the world as we apply these classic techniques to data fro
 
 **Students**, to use this curriculum, fork the entire repo to your own GitHub account and complete the exercises on your own or with a group:
 
-- Start with a pre-lecture quiz
+- Start with a pre-lecture quiz.
 - Read the lecture and complete the activities, pausing and reflecting at each knowledge check. 
 - Try to create the projects by comprehending the lessons rather than running the solution code; however that code is available in the `/solution` folders in each project-oriented lesson. 
-- Take the post-lecture quiz
-- Complete the challenge
-- Complete the assignment
+- Take the post-lecture quiz.
+- Complete the challenge.
+- Complete the assignment.
 - After completing a lesson group, visit the [Discussion board](/discussions) and "learn out loud" by filling out the appropriate PAT rubric. A 'PAT' is a Progress Assessment Tool that is a rubric you fill out to further your learning. You can also react to other PATs so we can learn together.
 
 > For further study, we recommend following these [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) modules and learning paths.
